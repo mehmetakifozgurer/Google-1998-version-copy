@@ -1,0 +1,19 @@
+.table-main{
+    background:#eee;
+    width: 1000px;
+}
+.textbox{
+   width: 60%;
+}
+
+.td-1{
+    background:#7EE5DA;
+}
+.td-2{
+    background:#70CCC2;
+}
+.td-3{
+    background:#62B3AA;
+    padding-bottom: 10px;
+}
+
